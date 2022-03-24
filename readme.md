@@ -40,7 +40,7 @@ Average Case: O(n^2)
 
 Worst Case: O(n^2)
 
-Best Case: If O(n)
+Best Case: O(n)
 
 
 ## 4. Sorumuz : 
